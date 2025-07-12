@@ -1,0 +1,33 @@
+.main_nav{
+    background-color: #FEFBD8;
+}
+
+.nav_shortcuts{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+    padding-top: 1.5em;
+}
+
+.website_logo{
+    padding-left: 1em;
+    float: left; 
+    font-family: "Hurricane", cursive;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 1.5em;
+}
+
+.shortcuts_bar{
+    float: right;
+}
+.shortcut{
+    padding-left: 1em;
+    padding-right: 1em;
+    font-family: "Hurricane", cursive;
+    font-size: 1.5em;
+}
+
+body {
+    background-color: #FEFBD8;
+}
